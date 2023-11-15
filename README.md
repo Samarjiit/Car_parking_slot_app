@@ -39,3 +39,7 @@ The Android Application will be built using following technologies:
 - Slot Management
 - Payment Gateway Integration
 -  User Profile
+
+
+  ![task app](https://github.com/Samarjiit/Car_parking_slot_app/blob/main/B2_T4_CarParking_Video_1.mp4)https://github.com/Samarjiit/Car_parking_slot_app/blob/main/B2_T4_CarParking_Video_1.mp4)
+
